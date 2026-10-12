@@ -6,7 +6,13 @@
     "publish_iso_date": "",
     "include_slug_in_base": true
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "guyhyge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341611692?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "guyhyge",
     "is_private": false,
@@ -24,6 +30,27 @@
       "tags": []
     },
     "created_at": "2026-10-12T18:03:00.792Z",
-    "updated_at": "2026-10-12T18:03:00.792Z"
-  }
+    "updated_at": "2026-10-12T18:03:00.792Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "5b70ac82-cfce-41b1-a97a-8f8d82e286e1": {
+      "content": [],
+      "created_at": "2026-10-12T18:03:00.832Z",
+      "created_by": "guyhyge",
+      "title": "Knumears i love you now i love you never ",
+      "updated_at": "2026-10-12T18:03:00.832Z",
+      "updated_by": "guyhyge",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "5b70ac82-cfce-41b1-a97a-8f8d82e286e1"
+  ]
 }
